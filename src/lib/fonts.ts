@@ -26,7 +26,7 @@ export const AVAILABLE_FONTS: FontDefinition[] = [
   name: 'Plantin', 
   value: '"Plantin", serif', 
   category: 'Serif',
-  url: 'https://raw.githubusercontent.com/paintdrab-debug/plantin/main/Plantin%20Regular.otf' 
+  url: 'https://raw.githubusercontent.com/paintdrab-debug/plantin/main/Plantin-Regular.otf' 
 },
     // Display / Fancy
     { name: 'Lobster', value: '"Lobster", cursive', category: 'Display', url: 'https://fonts.googleapis.com/css2?family=Lobster&display=swap' },
