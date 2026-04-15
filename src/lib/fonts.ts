@@ -22,7 +22,12 @@ export const AVAILABLE_FONTS: FontDefinition[] = [
     { name: 'Times New Roman', value: '"Times New Roman", Times, serif', category: 'Serif' },
     { name: 'Lora', value: '"Lora", serif', category: 'Serif', url: 'https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400&display=swap' },
     { name: 'Crimson Text', value: '"Crimson Text", serif', category: 'Serif', url: 'https://fonts.googleapis.com/css2?family=Crimson+Text:wght@400;600&display=swap' },
-
+{ 
+  name: 'Plantin', 
+  value: '"Plantin", serif', 
+  category: 'Serif',
+  url: 'https://raw.githubusercontent.com/paintdrab-debug/plantin/main/Plantin%20Regular.otf' 
+},
     // Display / Fancy
     { name: 'Lobster', value: '"Lobster", cursive', category: 'Display', url: 'https://fonts.googleapis.com/css2?family=Lobster&display=swap' },
     { name: 'Comfortaa', value: '"Comfortaa", cursive', category: 'Display', url: 'https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;700&display=swap' },
