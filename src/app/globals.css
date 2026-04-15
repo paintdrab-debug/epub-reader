@@ -4,7 +4,7 @@
 
 @font-face {
   font-family: 'Plantin';
-  src: url('https://raw.githubusercontent.com/paintdrab-debug/plantin/main/Plantin-Regular.otf') format('otf');
+  src: url('https://raw.githubusercontent.com/paintdrab-debug/plantin/main/Plantin-Regular.otf') format('opentype');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
